@@ -1,6 +1,6 @@
 # newsfeed
 
-> spi driven newsfeed
+> api driven newsfeed
 
 ## Build Setup
 
